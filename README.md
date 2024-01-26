@@ -44,18 +44,18 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ```bash
 cd JiugonggeAnimation
 
-bun install
+npm install
 
 ```
 
 - run
 
 ```bash
-bun run dev
+npm run dev
 ```
 
 - build
 
 ```bash
-bun run build
+npm run build
 ```
